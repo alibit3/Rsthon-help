@@ -1,9 +1,9 @@
 {
-  "name": "Telethon - Arab",
-  "description": "اهلا بك في تليثون العرب",
-  "logo": "",
+  "name": "Rsthon",
+  "description": "اهلا بك في رسثون",
+  "logo": "https://telegra.ph/file/88b0307eda38438f2eae4.jpg",
   "keywords": ["plugin","modular","productivity"],
-  "repository": "https://github.com/help-iq2/telethon",
+  "repository": "https://github.com/alibit3/Rsthon-help",
   "website": "#TODO",
   "success_url": "#TODO",
   "env": {
@@ -42,7 +42,7 @@
     },
     "UPSTREAM_REPO": {
       "description": "لاتغيرة",
-      "value": "TelethonAr",
+      "value": "Rsthon",
       "required": false
     }
   },
