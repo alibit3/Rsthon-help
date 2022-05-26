@@ -1,7 +1,7 @@
-FROM telethonArab/telethonAr:alpine
+FROM alibit3/Rsthon:alpine
 
 #clonning repo 
-RUN git clone https://github.com/telethonArab/telethonAr/tree/master.git /root/iqthon
+RUN git clone https://github.com/alibit3/Rsthon/tree/master.git /root/iqthon
 #working directory 
 WORKDIR /root/iqthon
 
