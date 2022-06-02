@@ -87,7 +87,7 @@ _set_bot () {
     echo "
 
     "
-    python3 -m iqthon
+    python3 -m RS_SY
 }
 
 _set_bot
