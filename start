@@ -87,7 +87,6 @@ _set_bot () {
     echo "
 
     "
-    python3 -m @IQTHON
-}
+    python3 -m @IQTHON}
 
 _set_bot
